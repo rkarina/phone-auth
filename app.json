@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "phone-auth2",
-    "slug": "phone-auth2",
+    "name": "phone-auth",
+    "slug": "phone-auth",
     "privacy": "public",
     "sdkVersion": "32.0.0",
     "platforms": [
